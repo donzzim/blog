@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import "./globals.css";
 
 // head do site (como se fosse o <head> do html)
 export const metadata: Metadata = {
